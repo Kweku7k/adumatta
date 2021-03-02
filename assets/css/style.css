@@ -247,7 +247,11 @@ h1, h2, h3, h4, h5, h6 {
   
 }
 
-.strip a{
+.row{
+  margin-bottom: 5vh;
+}
+
+.port a{
   color: blue !important;
   font-weight: bolder;
 }
